@@ -5,7 +5,7 @@ Pasos para ejecutar el programa
 1. clonar repositorio
 2. ejecutar ```npm install``` para reconstruir los modulos de node
 3. Correr el devServer ```npm run dev```
-4. Abrir el proyecto en : ```localhost```
+4. Abrir el proyecto en : ```http://localhost:5173```
 
 #Produccion
 
